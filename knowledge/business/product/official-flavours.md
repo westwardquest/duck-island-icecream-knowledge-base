@@ -1,6 +1,6 @@
 # Official flavours (sample subset)
 
-Canonical public menu: **[duckislandicecream.co.nz/flavours](https://www.duckislandicecream.co.nz/flavours)**. Workspace URL reference: [company-website.md](company-website.md).
+Canonical public menu: **[duckislandicecream.co.nz/flavours](https://www.duckislandicecream.co.nz/flavours)**. Workspace URL reference: [company-website.md](../company-website.md).
 
 The following subset matches what the **`sample-storefront`** demo landing page displays (names, tags, and descriptions aligned with the live site).
 

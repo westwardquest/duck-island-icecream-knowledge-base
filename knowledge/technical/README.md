@@ -1,5 +1,3 @@
-# Technical knowledge
+# Technical (internal)
 
-Internal documentation: architecture, APIs, runbooks, and tooling. Default visibility is **developers** when the workspace indexes these paths.
-
-Add `.md` files here or in subfolders.
+Place internal runbooks, integration notes, and other **non–customer-facing** Markdown here. Visibility defaults for this folder follow the EDF app’s rules for `knowledge/technical/`.
