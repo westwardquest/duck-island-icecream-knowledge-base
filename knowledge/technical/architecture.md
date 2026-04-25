@@ -19,7 +19,7 @@ The workspace **slug** must match the main folder name (here: `duck-island-icecr
 ## Data flow
 
 - **Tickets:** HTTP API on the WarpDesk deployment (`WARPDESK_BASE_URL`); MCP and `npm run warpdesk:*` scripts use a personal access token (`wds_pat_…`), not Supabase keys.
-- **Sample storefront:** No env vars required; no backend. Flavour text is static TypeScript data aligned with public duckislandicecream.co.nz pages for realism.
+- **Sample storefront:** No env vars required; no backend. Flavour text is static TypeScript data (menu snapshot in repo; no legacy public URL in copy).
 - **Knowledge indexing:** Push webhooks on the **knowledge** repo trigger indexing; the workspace app repo does not replace that pipeline.
 
 ## Submodule updates

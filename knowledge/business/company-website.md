@@ -1,16 +1,7 @@
 # Company website (official)
 
-**Duck Island Ice Cream** (New Zealand) publishes its public site at:
+**Duck Island Ice Cream** (New Zealand) will list its new public website at go-live. For content prepared for the new build, do **not** include the legacy public domain or full URL; use internal knowledge pages and the `sample-storefront` static data as working sources for names, tags, and descriptions.
 
-- **Main website:** [https://www.duckislandicecream.co.nz/](https://www.duckislandicecream.co.nz/)
-- **Flavours listing (canonical menu copy for product/support work):** [https://www.duckislandicecream.co.nz/flavours](https://www.duckislandicecream.co.nz/flavours/)
+- **Flavours and menu copy:** [Official flavours (sample subset)](product/official-flavours.md) and the TypeScript data under `sample-storefront/data/` in this workspace.
 
-**Related public pages** (also on the same domain):
-
-- [Scoop store special flavours](https://www.duckislandicecream.co.nz/scoop-store-special-flavours)
-- [Scoop store menu](https://www.duckislandicecream.co.nz/scoop-store-menu)
-- [Allergen information](https://www.duckislandicecream.co.nz/allergens)
-
-The flavours page describes the full **“All flavours”** range (names, dietary tags such as GF / VEGAN, and short descriptions). Any demo storefront or ticket fix that must match “the main website” should take names and customer-facing wording from that page (or a cited subset for brevity), not from placeholder copy.
-
-*Snapshot note: links verified against the public site as of 2026-04-15.*
+A single production URL will be added here when the client publishes the new site.

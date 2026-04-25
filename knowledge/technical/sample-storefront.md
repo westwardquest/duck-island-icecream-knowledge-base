@@ -22,8 +22,8 @@ Open the URL Next prints (usually `http://localhost:3000`). Production build: `n
 | **`app/page.module.css`** | Page layout, cards, tab strip |
 | **`components/DuckIslandLogo.tsx`** | Official wordmark (see `components/` + markup helper) |
 | **`components/FlavourListTabs.tsx`** | Client component: **Regular** vs **Special** tabs; reuses card grid styles |
-| **`data/officialFlavours.ts`** | Names, blurbs, dietary tags — snapshot from **duckislandicecream.co.nz/flavours** |
-| **`data/specialFlavours.ts`** | Scoop-store specials — snapshot from **…/scoop-store-special-flavours** |
+| **`data/officialFlavours.ts`** | Names, blurbs, dietary tags — static snapshot in repo (legacy public URL omitted in new content) |
+| **`data/specialFlavours.ts`** | Scoop-store specials — static snapshot in repo (same) |
 
 Copy is **manually maintained** to match the live site; nothing is scraped at runtime.
 
@@ -32,7 +32,7 @@ Copy is **manually maintained** to match the live site; nothing is scraped at ru
 - **Regular flavours** — Full public range from `officialFlavours`.
 - **Special flavours** — Curated scoop-shop list from `specialFlavours`.
 
-Intro copy under the tabs links to the same public URLs used for the snapshots so reviewers can compare.
+Intro copy under the tabs describes the snapshot; it does not link out to a legacy public site.
 
 ## Styling and fonts
 
