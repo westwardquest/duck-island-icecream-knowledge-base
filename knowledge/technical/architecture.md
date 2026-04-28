@@ -4,6 +4,8 @@
 
 This repo is a **WarpDesk workspace** quickstart: a thin shell around **`vendor/warpdesk-client-kit`** (git submodule) plus a **sample Next.js storefront** used as a fake “product under support.” It does **not** ship a production Duck Island deployment; it exists so tickets, MCP, and knowledge workflows can be exercised in Cursor.
 
+tst
+
 ## Layout
 
 | Path | Role |
